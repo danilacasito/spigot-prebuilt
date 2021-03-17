@@ -1,4 +1,3 @@
-MAINTAINER daniel <danilacasito8@gmail.com>
 FROM ubuntu:latest
 RUN apt update
 RUN apt install default-jre -y
